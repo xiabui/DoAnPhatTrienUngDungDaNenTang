@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "438199248421",
+    "project_id": "digitalwallet-19b6e",
+    "storage_bucket": "digitalwallet-19b6e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438199248421:android:14613658563ec06ec0c1cc",
+        "android_client_info": {
+          "package_name": "com.digitalwalletnpx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438199248421-te2t6iln8io5fvgi9hdnge2suo6gd0do.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAutJYkAoLLS_MpHbEWMDrfE6NIRflHZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438199248421-te2t6iln8io5fvgi9hdnge2suo6gd0do.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
